@@ -4,10 +4,14 @@ Team members:
 M.C. : Captain
 J.M. : First Mate
 
+
 Changes are Newest First.
 
 
-Quotes are added to mouseover
+- Added sick random function
+
+- Added quotes to mouseover of pictures
+
+- On Jan 19: Monkey was created, praise the banana.
 
 
-On Jan 19: Monkey was created, praise the banana.
